@@ -10,3 +10,4 @@
 | QuantLib 이용  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/FE2025/blob/main/Quantlib_intro.ipynb) | 
 | 포트폴리오분석  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/FE2025/blob/main/pfo_analysis.ipynb) | 
 | Stochastic Calculus  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/FE2025/blob/main/stochastic_calculus.ipynb) | 
+| BS formula and MC  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/FE2025/blob/main/MC_basics.ipynb) | 
