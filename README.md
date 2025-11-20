@@ -13,3 +13,4 @@
 | BS formula and MC  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/FE2025/blob/main/MC_basics.ipynb) | 
 | 중간고사 관련 코드 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/FE2025/blob/main/midterm2025.ipynb) | 
 | 1stock Step Down | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/FE2025/blob/main/StepDown_1stock.ipynb) | 
+| Hedging Derivatives | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/FE2025/blob/main/HedgingDerivatives.ipynb) | 
